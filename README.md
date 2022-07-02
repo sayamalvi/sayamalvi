@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayamalvi
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning HTML,CSS and Javascript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack.
 - 📫 Reach me at sayamalvi07@gmail.com
 
 <!---

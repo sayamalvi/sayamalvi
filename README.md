@@ -74,15 +74,11 @@
     alt="postman" width="40" height="40" />
   </a>
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
   alt="sayamalvi" />
-</p>
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&locale=en"
   alt="sayamalvi" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&"
   alt="sayamalvi" />
 </p>

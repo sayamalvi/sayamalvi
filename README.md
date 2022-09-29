@@ -76,11 +76,15 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
-  alt="sayamalvi" />
+  alt="sayamalvi">
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&locale=en"
-  alt="sayamalvi" />
+  alt="sayamalvi" >
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&"
-  alt="sayamalvi" />
+  alt="sayamalvi" >
 </p>
 
 

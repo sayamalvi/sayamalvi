@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **building full stack scalable web apps**
 
-- 👯 I’m looking to collaborate on **React based frontend projects**
+- 👯 I’m looking to collaborate on **React based frontend projects or MERN Stack apps**
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **sayamalvi07@gmail.com**
+- 📫 Reach me at **sayamalvi07@gmail.com**
 
 <h3 align="center">
   Languages and Tools:
@@ -79,7 +79,7 @@
   </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
   alt="sayamalvi" />
 </p>
 <p>

@@ -78,7 +78,7 @@
     alt="sass" width="40" height="40" />
   </a>
 </p>
-<p display="flex" justify-content="center" align-item="center" >
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
   alt="sayamalvi" />
 </p>

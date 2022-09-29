@@ -78,7 +78,7 @@
     alt="sass" width="40" height="40" />
   </a>
 </p>
-<p>
+<p display="flex" justify-content="center" align-item="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
   alt="sayamalvi" />
 </p>
@@ -92,16 +92,3 @@
 </p>
 
 
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee

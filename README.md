@@ -21,7 +21,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,scss,react,nodejs,express,mongodb,mongoose,postman,heroku" />
   </a>
 </p>
 <p align="center">

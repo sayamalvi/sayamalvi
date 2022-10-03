@@ -21,7 +21,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,scss,react,nodejs,express,mongodb,cpp,netlify,heroku,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,react,nodejs,express,mongodb,cpp,netlify,heroku,vscode,wordpress" />
   </a>
 </p>
 <p align="center">

@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 Reach me at <a href=”https://www.linkedin.com/in/sayamalvi/"><img align=”left” src=”https://raw.githubusercontent.com/sayamalvi/sayamalvi/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+- 📫 Reach me at <a href="https://www.linkedin.com/in/sayamalvi"><img align="left" src="https://raw.githubusercontent.com/sayamalvi/sayamalvi/main/images/linkedin.svg" width="21px"/></a>
 
 <h3 align="center">
   Languages and Tools:

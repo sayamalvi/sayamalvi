@@ -25,15 +25,15 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&theme=highcontrast&locale=en&layout=compact"
   alt="sayamalvi">
 </p>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&locale=en"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&theme=highcontrast&locale=en"
   alt="sayamalvi" >
  </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&"
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&theme=highcontrast"
   alt="sayamalvi" >
 </p>
 

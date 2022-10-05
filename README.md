@@ -14,8 +14,8 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 Reach me at <a href="https://linkedin.com/in/sayamalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayamalvi" height="30" width="40" /></a>
-<a href="https://instagram.com/_sayammm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sayammm_" height="30" width="40" /></a>
+- 📫 Reach me at <a href="https://linkedin.com/in/sayamalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayamalvi" height="20" width="30" /></a>
+<a href="https://instagram.com/_sayammm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sayammm_" height="20" width="30" /></a>
 
 <h3 align="center">
   Languages and Tools:

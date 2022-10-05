@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [a dental care website](https://github.com/sayamalvi/alvidentalcare.git)
 
-- 🌱 I’m currently learning **building full stack scalable web apps**
+- 🌱 Learning ** full stack development**
 
 - 👯 I’m looking to collaborate on **React based frontend projects or MERN Stack apps**
 

@@ -23,10 +23,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,react,materialui,nodejs,express,cpp,mongodb,wordpress,git,netlify,heroku" />
   </a>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&locale=en&layout=compact"
   alt="sayamalvi">
+</p>
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&locale=en"
   alt="sayamalvi" >
+ </p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&"
   alt="sayamalvi" >
 </p>

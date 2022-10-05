@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 Reach me at <a href="https://www.linkedin.com/in/sayamalvi"><img src="https://raw.githubusercontent.com/sayamalvi/sayamalvi/master/assets/linkedin.svg" width="21px"/></a>
+- 📫 Reach me at <a href="https://www.linkedin.com/in/sayamalvi"><img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=style" width="21px"/></a>
 
 <h3 align="center">
   Languages and Tools:

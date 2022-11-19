@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayamalvi&theme=highcontrast" alt="sayamalvi" /></a> </p>
 
-- 🔭 I’m currently working on [a dental care website](https://github.com/sayamalvi/alvidentalcare.git)
+<!-- - 🔭 I’m currently working on [a dental care website](https://github.com/sayamalvi/alvidentalcare.git) -->
 
 - 🌱 Learning **full stack development**
 

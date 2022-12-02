@@ -25,3 +25,19 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,react,materialui,nodejs,express,cpp,mongodb,git,netlify,heroku" />
   </a>
 </p>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamalvi&show_icons=true&theme=highcontrast&locale=en&layout=compact"
+  alt="sayamalvi">
+</p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamalvi&show_icons=true&theme=highcontrast&locale=en"
+  alt="sayamalvi" >
+ </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayamalvi&theme=highcontrast"
+  alt="sayamalvi" >
+</p>
+
+[![@sayamalvi's Holopin board](https://holopin.me/sayamalvi)](https://holopin.io/@sayamalvi)
+

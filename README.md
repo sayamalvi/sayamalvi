@@ -10,7 +10,7 @@
 
 - 🌱 Learning **full stack development**
 
-- 👯 I’m looking to collaborate on **React based frontend projects or MERN Stack apps**
+- 👨🏻‍💻 I’m looking to collaborate on **React based frontend projects or MERN Stack apps**
 
 - 💬 Ask me about **web development**
 

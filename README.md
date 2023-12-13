@@ -22,7 +22,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,typescript,react,nextjs,materialui,tailwindcss,nodejs,express,cpp,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,scss,javascript,typescript,react,nextjs,materialui,tailwindcss,nodejs,express,cpp,mongodb,git,docker" />
   </a>
 </p>
 </p>

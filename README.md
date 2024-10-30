@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sayam</h1>
-<h3 align="center">A Full Stack Developer. Passionate about solving engineering problems. Crafting scalable software solutions with MERN Stack</h3>
+<h3 align="center">A Full Stack Developer. Passionate about solving software engineering problems. Currently exploring the web with MERN Stack.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayamalvi&label=Profile%20views&color=0e75b6&style=flat" alt="sayamalvi" /> </p>
 
